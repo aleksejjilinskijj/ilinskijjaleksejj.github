@@ -1,0 +1,56 @@
+.intro {
+	width: 100px;
+	height: 10px;
+	color: black;
+	border: 5px;
+	border-radius: 4px;
+	border: 5px solid white;
+	opacity: 0.5;
+	background-color: #dff0d8;
+	border: 1px solid #d6e9c6;
+    padding: 15px;
+    margin:5px;
+    display: inline-block;
+}
+
+.intro:hover {
+    background: #786b59; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+   } 
+
+
+
+
+
+.intro3 {
+	width: 100px;
+	height: 10px;
+	color: black;
+	border: 5px;
+	background-color: red;
+	border: 5px solid white;
+	padding: 15px;
+    
+}
+
+.intro2 {
+	width: 100px;
+	height: 10px;
+	color: black;
+	border: 5px;
+	
+	border: 5px solid white;
+	opacity: 0.5;
+	text-decoration: line-through;
+    padding: 15px;
+}
+
+.intro3:hover {
+    background: #786b59; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+   } 
+
+  .intro2:hover {
+    background: #786b59; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+   } 
